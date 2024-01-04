@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: fcd33919f2e34314d9a6c2e6ac83c1f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4425
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d038eec628944586a298e3fed6c78
+      internalID: -1285456512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4425
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652244668f83ac4c9e9650f0e006ca6
+      internalID: -2114415760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4425
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e2a0c30c7c224c8a7092dcba170da
+      internalID: -313670227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8b93c3a880f843971f87b196e343e
+      internalID: 1051429484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9131073f015780409340a988a35f247
+      internalID: -406088695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186e9a9d649e5a4a84dd7326c0d3916
+      internalID: -981463915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a496e47648bd5a418d3a49cd0937cd4
+      internalID: 1716140059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd91ee33cbb4d42bea61108b6d689e
+      internalID: -270570469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840c31600c1f0e44819775f17742216
+      internalID: -211126460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4130
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9b591d97ace4c44aa05fe18964bb68
+      internalID: -1498009980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98455218e2c5d4083a4714d97ca633
+      internalID: 1824998900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525c2e9ca19c56448877883a2a7941a
+      internalID: -1297989656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890219f637cd4e44bb41ab6a79e67550
+      internalID: -52240781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94137135f786b6d429dd99f6959d98dd
+      internalID: 589343817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a173668a35327419865889fe657a82
+      internalID: 1118080790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec9a7ece92c8f46bb2a237bb6c9f35
+      internalID: 669470245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3835
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca23b50d10ad84bbef46b818ef0783
+      internalID: -1727231600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27b0632f5f25e43912f20f2d4e1b9a
+      internalID: 1816727038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b18eb827cc4548ace68283bc52da1
+      internalID: -2073087042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050095b77f7cc2449b738d8826ce411e
+      internalID: 1665867768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e23f19de2304c44a07ea3a8a93605a
+      internalID: 449571998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304cd30e7deacdc49acff1e3b81f358c
+      internalID: -658259890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0877499637dc5a54dace44660a5e6016
+      internalID: -160415598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3540
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61083b33aef11674ba7095469764309e
+      internalID: 332825466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe6a8f1b9deba0438b21cf74cc86c15
+      internalID: -953174801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045933250f8ca34781b68a03b38e2c8
+      internalID: 940583579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167efd344d991b41a0a6469981bea96
+      internalID: 1966700691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68584ddfaee0c428b94a9dcb615490
+      internalID: 216590274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d370040a6345a04fb06c555b6b90086
+      internalID: 524254159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f4fb9f830e33429946ad32396fd02
+      internalID: 931646435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3245
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b306e9826401f144b027ac9425bdd79
+      internalID: -901618518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dbe5cb1faeb834b9decd2bfdda18f8
+      internalID: 342081288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f27b740600ff4db2349e708b2a1cf
+      internalID: 914156583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2314a94fc88736345bc9e1afde373152
+      internalID: -1866372142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfa76617bb89104e8d0817ee68aabd7
+      internalID: -325951873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6028beba7175a418fa437507f544c0
+      internalID: 197314372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb5270d77be2214c826284147cbfdeb
+      internalID: 222545419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2950
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc969b91fcfd77c47a76963072119284
+      internalID: 46838583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091dbe59d0441b48bf641a9ba45c01a
+      internalID: -1462469546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed698ff1680d848941d009493e8f63
+      internalID: -2133508658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623bbbefc91a13b4288d3436035f7fba
+      internalID: 705573528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3426eb4f00554f4eb0db0f801dd9cdf
+      internalID: -1427554773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f7babc181d434894a4eeba3a6170e
+      internalID: -227259959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e300ed1937c4c4989a56e5694367cc
+      internalID: 1579548426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2655
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599026db416e90c4c8d745ab4d35d3ac
+      internalID: -1091929923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f79064b04aff342baabec8ae800198
+      internalID: 461313293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15bc3bb4aba22846bbe542f35b9ed1a
+      internalID: -447909169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb1ed88c8621b741a57c27e3458f332
+      internalID: -562409191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f6fff1455e80c458ce77456466e43d
+      internalID: 404181394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b76c05242ce0e64281ed441af75df1b
+      internalID: 1519220897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d26514a90e248342820da1ecc1b04b2
+      internalID: 1016396414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2360
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c54412cb7aad7540af2dd4e052af7f4
+      internalID: -973417328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befbf9e2fcb12fd4493eb97152a5b99f
+      internalID: -412565503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16a0d18c9da94489012c9d3a2fe457
+      internalID: 85678264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e1e99c3904554599598b12c50ae31
+      internalID: 207284186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa17c16e8cbfee34cab5b3e904515abb
+      internalID: 1672649575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a43df6acf8c0e49b456b26e8e74a3e
+      internalID: -1765625072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b046860bc7277a4b85e72b832d228a0
+      internalID: 859226540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2065
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d81f2dd7dfb44bbdd3313e283611c
+      internalID: 653018195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee739c4e09db7f448613fe16830a84a
+      internalID: 800216637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af41dacc9c6fb224980bcb1e9356c8da
+      internalID: -861288569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1716756db4343294c901a700d5092d48
+      internalID: -1653289817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7562ebafc7107741aa7401d3f9c6b66
+      internalID: -1684196178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b0fe20c21332d4083092ad35d53ccf
+      internalID: 1255102212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf8980815e9cd4980f14ce0640950e
+      internalID: -838619459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1770
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64431e3b0498b346a6111100dd78418
+      internalID: -1751806970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9168fe9422170f648909a610db9d3575
+      internalID: -1498505606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739ad467ba0c7944985002abbb69f13
+      internalID: 1187347604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d4a57091d80947a434bd6596b0ba4
+      internalID: -1582192080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101b6c691ef638409e7eb4fe88608a6
+      internalID: -990261880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25d11fb6cb0fe439796755808977cc
+      internalID: -1263843804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4a20a0f7d41a488e14a59ab5cd417
+      internalID: 1130779175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1475
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e643d76ae37124992f70c9aa18563e
+      internalID: -1589170560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e5d6ca5d7b8e498cb1a69c82c5938
+      internalID: -170794681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314a9480aa49ec47a02d28aee607ad2
+      internalID: 969976466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119912192b7182247a49ec478715681f
+      internalID: -225743540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aada83a5183b2934ba4c940f3e1a5b5a
+      internalID: -1912065249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341fb3b91af085b448f1dd58dd897af8
+      internalID: -318448801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e7c6c186a5aae4883d21601e12c94a
+      internalID: 119412346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1180
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd710b36a0a4c46906f16a8812a48d
+      internalID: -1481066353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa161881829826d468e6acf85770aac5
+      internalID: 301482432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49033d232fe6c954c81b6ba42aa95197
+      internalID: 1644494440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675bf1b13f62c945b0f36669c1aa68b
+      internalID: 96066458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6097a3764e1412d4bab0082d3fd05356
+      internalID: -49694970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb8a4ee049eee42badb666191f9a9e
+      internalID: 1549969940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4909d9b838dfd646a59f6e69f1a5a1e
+      internalID: 1346539260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 885
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e16c96b294974095a9d9086173bcf
+      internalID: -1141845327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf30a31ccd744c9409ccecb0e8192f9f
+      internalID: 712126670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483e18fd8659954d9d9a4f9eab691b1
+      internalID: 1825377801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7073d17b868f3494c93b76df1c4cd172
+      internalID: -2062459186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1da64c549ba43418af5fc8eaabf6ee
+      internalID: 1612235303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94f43ffc7fdb14abb6f36b2e9ebc35
+      internalID: -55762905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05faf2fce66b18e40a96dbc4dbc87b12
+      internalID: -836338509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 590
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522435198a1837649b2da3359c18a17c
+      internalID: -1778948011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94ba348cd468334fa26f0ece68400ba
+      internalID: 1344509522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningPhaseSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 295
+        width: 512
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8150bc0a8cb948a83a71ca432fd50
+      internalID: -499908230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fcb102d82c3537d4e9dbbde5e308ba02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MiningPhaseSpriteSheet_0: -235919646
+      MiningPhaseSpriteSheet_1: 1094693576
+      MiningPhaseSpriteSheet_10: 1716140059
+      MiningPhaseSpriteSheet_100: -1093054304
+      MiningPhaseSpriteSheet_101: -874970155
+      MiningPhaseSpriteSheet_102: 476529020
+      MiningPhaseSpriteSheet_103: 1134496412
+      MiningPhaseSpriteSheet_104: -727588992
+      MiningPhaseSpriteSheet_105: 1352232180
+      MiningPhaseSpriteSheet_106: -1921812334
+      MiningPhaseSpriteSheet_107: -1743158461
+      MiningPhaseSpriteSheet_108: -227579044
+      MiningPhaseSpriteSheet_109: 873355884
+      MiningPhaseSpriteSheet_11: -270570469
+      MiningPhaseSpriteSheet_110: -26445038
+      MiningPhaseSpriteSheet_111: 2028972928
+      MiningPhaseSpriteSheet_12: -211126460
+      MiningPhaseSpriteSheet_13: -1498009980
+      MiningPhaseSpriteSheet_14: 1824998900
+      MiningPhaseSpriteSheet_15: -1297989656
+      MiningPhaseSpriteSheet_16: -52240781
+      MiningPhaseSpriteSheet_17: 589343817
+      MiningPhaseSpriteSheet_18: 1118080790
+      MiningPhaseSpriteSheet_19: 669470245
+      MiningPhaseSpriteSheet_2: 643853844
+      MiningPhaseSpriteSheet_20: -1727231600
+      MiningPhaseSpriteSheet_21: 1816727038
+      MiningPhaseSpriteSheet_22: -2073087042
+      MiningPhaseSpriteSheet_23: 1665867768
+      MiningPhaseSpriteSheet_24: 449571998
+      MiningPhaseSpriteSheet_25: -658259890
+      MiningPhaseSpriteSheet_26: -160415598
+      MiningPhaseSpriteSheet_27: 332825466
+      MiningPhaseSpriteSheet_28: -953174801
+      MiningPhaseSpriteSheet_29: 940583579
+      MiningPhaseSpriteSheet_3: 88848925
+      MiningPhaseSpriteSheet_30: 1966700691
+      MiningPhaseSpriteSheet_31: 216590274
+      MiningPhaseSpriteSheet_32: 524254159
+      MiningPhaseSpriteSheet_33: 931646435
+      MiningPhaseSpriteSheet_34: -901618518
+      MiningPhaseSpriteSheet_35: 342081288
+      MiningPhaseSpriteSheet_36: 914156583
+      MiningPhaseSpriteSheet_37: -1866372142
+      MiningPhaseSpriteSheet_38: -325951873
+      MiningPhaseSpriteSheet_39: 197314372
+      MiningPhaseSpriteSheet_4: -1285456512
+      MiningPhaseSpriteSheet_40: 222545419
+      MiningPhaseSpriteSheet_41: 46838583
+      MiningPhaseSpriteSheet_42: -1462469546
+      MiningPhaseSpriteSheet_43: -2133508658
+      MiningPhaseSpriteSheet_44: 705573528
+      MiningPhaseSpriteSheet_45: -1427554773
+      MiningPhaseSpriteSheet_46: -227259959
+      MiningPhaseSpriteSheet_47: 1579548426
+      MiningPhaseSpriteSheet_48: -1091929923
+      MiningPhaseSpriteSheet_49: 461313293
+      MiningPhaseSpriteSheet_5: -2114415760
+      MiningPhaseSpriteSheet_50: -447909169
+      MiningPhaseSpriteSheet_51: -562409191
+      MiningPhaseSpriteSheet_52: 404181394
+      MiningPhaseSpriteSheet_53: 1519220897
+      MiningPhaseSpriteSheet_54: 1016396414
+      MiningPhaseSpriteSheet_55: -973417328
+      MiningPhaseSpriteSheet_56: -412565503
+      MiningPhaseSpriteSheet_57: 85678264
+      MiningPhaseSpriteSheet_58: 207284186
+      MiningPhaseSpriteSheet_59: 1672649575
+      MiningPhaseSpriteSheet_6: -313670227
+      MiningPhaseSpriteSheet_60: -1765625072
+      MiningPhaseSpriteSheet_61: 859226540
+      MiningPhaseSpriteSheet_62: 653018195
+      MiningPhaseSpriteSheet_63: 800216637
+      MiningPhaseSpriteSheet_64: -861288569
+      MiningPhaseSpriteSheet_65: -1653289817
+      MiningPhaseSpriteSheet_66: -1684196178
+      MiningPhaseSpriteSheet_67: 1255102212
+      MiningPhaseSpriteSheet_68: -838619459
+      MiningPhaseSpriteSheet_69: -1751806970
+      MiningPhaseSpriteSheet_7: 1051429484
+      MiningPhaseSpriteSheet_70: -1498505606
+      MiningPhaseSpriteSheet_71: 1187347604
+      MiningPhaseSpriteSheet_72: -1582192080
+      MiningPhaseSpriteSheet_73: -990261880
+      MiningPhaseSpriteSheet_74: -1263843804
+      MiningPhaseSpriteSheet_75: 1130779175
+      MiningPhaseSpriteSheet_76: -1589170560
+      MiningPhaseSpriteSheet_77: -170794681
+      MiningPhaseSpriteSheet_78: 969976466
+      MiningPhaseSpriteSheet_79: -225743540
+      MiningPhaseSpriteSheet_8: -406088695
+      MiningPhaseSpriteSheet_80: -1912065249
+      MiningPhaseSpriteSheet_81: -318448801
+      MiningPhaseSpriteSheet_82: 119412346
+      MiningPhaseSpriteSheet_83: -1481066353
+      MiningPhaseSpriteSheet_84: 301482432
+      MiningPhaseSpriteSheet_85: 1644494440
+      MiningPhaseSpriteSheet_86: 96066458
+      MiningPhaseSpriteSheet_87: -49694970
+      MiningPhaseSpriteSheet_88: 1549969940
+      MiningPhaseSpriteSheet_89: 1346539260
+      MiningPhaseSpriteSheet_9: -981463915
+      MiningPhaseSpriteSheet_90: -1141845327
+      MiningPhaseSpriteSheet_91: 712126670
+      MiningPhaseSpriteSheet_92: 1825377801
+      MiningPhaseSpriteSheet_93: -2062459186
+      MiningPhaseSpriteSheet_94: 1612235303
+      MiningPhaseSpriteSheet_95: -55762905
+      MiningPhaseSpriteSheet_96: -836338509
+      MiningPhaseSpriteSheet_97: -1778948011
+      MiningPhaseSpriteSheet_98: 1344509522
+      MiningPhaseSpriteSheet_99: -499908230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

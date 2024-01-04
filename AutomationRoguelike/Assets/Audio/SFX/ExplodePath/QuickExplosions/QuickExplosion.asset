@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbcbcdae04d6c94f861f9fe52a6b1dd, type: 3}
+  m_Name: QuickExplosion
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 0c83f7a6de1f03146b2373bf29c124cf, type: 3}
+  - {fileID: 8300000, guid: 3ecfa14260bc9394ab2b2a5bc108dd7f, type: 3}
+  - {fileID: 8300000, guid: 8d5d89457222fae42900fa1cb05595cd, type: 3}
+  - {fileID: 8300000, guid: e00445dd189ecaf4d89363f17be32c4a, type: 3}
+  - {fileID: 8300000, guid: 30bbfda59bfa0ef48b7704e4b8acab80, type: 3}
+  - {fileID: 8300000, guid: c52dc066d0f1d224ba9cf10d79d3582a, type: 3}
+  - {fileID: 8300000, guid: 885989c8f00852f47ab3fa901c9dcb13, type: 3}
+  - {fileID: 8300000, guid: 3c4c73881c1f0c74788d3f8793685a8d, type: 3}
+  - {fileID: 8300000, guid: c1491dbcdf2adbc469d1d2dc57670035, type: 3}
+  - {fileID: 8300000, guid: 1a0175e4cd755294e9f0ef47f24462e5, type: 3}
+  - {fileID: 8300000, guid: d48bc7316b51a28409e5e5cd12a9c601, type: 3}
+  - {fileID: 8300000, guid: ab650bfdb902bad43844c34d975b3efb, type: 3}
+  - {fileID: 8300000, guid: dab0029b443a3ab4ea52e92e94cb3b3d, type: 3}
+  - {fileID: 8300000, guid: 4f6c694a2203666409b2ae5588b1a211, type: 3}
+  - {fileID: 8300000, guid: b2da70f27cc62984fa4234f6d9c1cf34, type: 3}
+  - {fileID: 8300000, guid: 5196fc60a66b6f54a96055531244292a, type: 3}
+  - {fileID: 8300000, guid: 7a9113a892e852c429f89c5b1a5bcb25, type: 3}
+  - {fileID: 8300000, guid: 0c1c97b293e3f7f4581429dc1db404b8, type: 3}
+  - {fileID: 8300000, guid: 868d8bdc4860ada46b40008f42cd0900, type: 3}
+  - {fileID: 8300000, guid: de371547179232b4fad773267505dbbb, type: 3}
+  - {fileID: 8300000, guid: 071f197c0a5059a4c8ed490d7baeca62, type: 3}
+  - {fileID: 8300000, guid: a78fe74286743794c800bc7b532df303, type: 3}
+  _maxVolume: 1
+  _minVolume: 1
+  _maxPitch: 1.02
+  _minPitch: 0.98
+  _mixer: {fileID: 5669086566248817222, guid: c50f422e76635fb45afb7398e47113ce, type: 2}
+  _cooldown: 0
+  _maxAmountActive: 10

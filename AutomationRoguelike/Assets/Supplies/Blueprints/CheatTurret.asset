@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11cc8c226e8214c4d9832afe9734cada, type: 3}
+  m_Name: CheatTurret
+  m_EditorClassIdentifier: 
+  _structure: {fileID: 9077881828768143489, guid: 94811d48531bee640b4f1cacee04db6c,
+    type: 3}
+  _descriptionText: Cheat turr
+  _icon: {fileID: 21300000, guid: 11f4674ff1ee5ed4c9bcdbdf1373a7d5, type: 3}
+  _gif: {fileID: 0}
+  _gifAnimationController: {fileID: 0}
+  _isProcessingMachine: 0
+  _possibleVariants: []

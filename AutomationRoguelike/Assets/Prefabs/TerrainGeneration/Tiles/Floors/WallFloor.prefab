@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &295005193651977115
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1636737580426150853, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_Name
+      value: WallFloor
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739078311701187864, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947814266211006045, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ae1d53259de93c5419fb62b79b79ecd8, type: 2}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _noneMesh
+      value: 
+      objectReference: {fileID: 116255513223397625, guid: 8d81c45fdaee6d34daf6684a27e75f6e,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _cornerMesh
+      value: 
+      objectReference: {fileID: -2781772588255328986, guid: 63b460c5ea5416e479d1ebe5894fb04d,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _doubleMesh
+      value: 
+      objectReference: {fileID: -599885105080378612, guid: 85077fab6c6676d4084682a8eea45b17,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _singleMesh
+      value: 
+      objectReference: {fileID: 5881015846366733843, guid: d41680afebacb77459e0b7546a9d00b3,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _tripleMesh
+      value: 
+      objectReference: {fileID: 7857228629380942365, guid: 286a1c7c64532784ba05cfb693cb0a6d,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _cornerChippedMesh
+      value: 
+      objectReference: {fileID: -8998164194173381433, guid: 992d07a7a57605546810e2ade3774fe9,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _quadMeshQuadChipped
+      value: 
+      objectReference: {fileID: 2844414102043906238, guid: 71ff510a93fbbdf40881127dcde92680,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _quadMeshDoubleOpposed
+      value: 
+      objectReference: {fileID: 8647254832602215267, guid: cd52a0ab80aefd34bab315227589ada4,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _quadMeshSingleChipped
+      value: 
+      objectReference: {fileID: -5504871265077485260, guid: 90d8915af22ff1344800d8f68be51386,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _quadMeshTripleChipped
+      value: 
+      objectReference: {fileID: -3542674371220928551, guid: 39fdde342e54ee34881e40e05834376a,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _tripleMeshLeftChipped
+      value: 
+      objectReference: {fileID: -4726378046535313307, guid: 64be612768fd63e4fbd0e7aa16699a0a,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _tripleMeshRightChipped
+      value: 
+      objectReference: {fileID: 7858513908871658434, guid: d0b0e1c35e1ec8642aad2f3da2aa9bca,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _quadMeshDoubleConnected
+      value: 
+      objectReference: {fileID: 4866938822962044682, guid: df1c574fb88f8054c8a626d7ac5fb29c,
+        type: 3}
+    - target: {fileID: 8366223768773489180, guid: ad6c1bb8113048c4695af7da8ee20899,
+        type: 3}
+      propertyPath: _tripleMeshDoubleChipped
+      value: 
+      objectReference: {fileID: -2817180086287893566, guid: 9320fd093e96cf44da77890176c046b8,
+        type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad6c1bb8113048c4695af7da8ee20899, type: 3}

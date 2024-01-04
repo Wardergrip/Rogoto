@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2186009570685566162
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7192797169008749532}
+  - component: {fileID: 2659780723383693210}
+  - component: {fileID: 2422253135824527552}
+  - component: {fileID: 6957429505883198568}
+  m_Layer: 0
+  m_Name: ChunkGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7192797169008749532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2186009570685566162}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2659780723383693210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2186009570685566162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c02f52b2d54ec64ea0a5dcc90d55d40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _width: 0
+  _height: 0
+  _border: 0
+  _wallHeight: 1
+  _yOffset: 0.5
+  _generate: 1
+  _wall: {fileID: 785551824685038886, guid: 43e74db40d377f24db048ebed0172ede, type: 3}
+  _ground: {fileID: 7019334533086982737, guid: c2d09c073d25fcc4b9621e502d1188cf, type: 3}
+  _pillar: {fileID: 8439059423809298819, guid: 00284c046fa19344da9d61550ac95c78, type: 3}
+  _chasmObjects:
+  - {fileID: 919132149155446097, guid: 3b9e80dd89118bd46bf72f1d5affcceb, type: 3}
+  - {fileID: 919132149155446097, guid: 6a7ef2cd1389a4940b781d83b4a96ef7, type: 3}
+  _MaxPercentageBlocked: 0
+  _blockerObject: {fileID: 429733661141378875, guid: 3478a98523670d340973936f6d761b41,
+    type: 3}
+  _miningStart: {fileID: 4153285377479725926, guid: 6a75e8c7b2b72a044a3275eed23640e2,
+    type: 3}
+  _miningEnd: {fileID: 4153285377479725926, guid: 1370128d5320d6a4bbab7e537181b21c,
+    type: 3}
+  _minCaveSize: 18
+  _nestSpawnerObject: {fileID: 7528429909685081504, guid: 30dea3ce07f91ac419e6e3465fc8bc4f,
+    type: 3}
+  _rootNestSpawnerObject: {fileID: 1317794260383426104, guid: fee7846bc5ce8df418a156b82f8e2f93,
+    type: 3}
+  _resourceTile: {fileID: 900679070126617092, guid: 517d1af6d027ad24d820b2c65eb45979,
+    type: 3}
+  _wreckObject: {fileID: 6681598577919792889, guid: f0315c5485dec3045b48b1848b0571ca,
+    type: 3}
+  _levelIncrease: 1
+  _budgetLevelMultiplier: 5
+  _minBudget: 18
+  _budgetVariation: 0.25
+  _wreckCost: 8
+  _minWrecks: 1
+  _maxWrecks: 3
+  _recourseCostMultiplier: 1.5
+  _caveGenerator: {fileID: 2422253135824527552}
+  _fallbackCaveGenerator: {fileID: 6957429505883198568}
+  _obstacleLayers: {fileID: 0}
+  _fallbackObstacleLayers: {fileID: 0}
+--- !u!114 &2422253135824527552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2186009570685566162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee5a065dcdccffd4098e500363dd498e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _chanceToStartAlive: 0.335
+  _birthLimit: 4
+  _deathLimit: 3
+  _numberOfSteps: 7
+--- !u!114 &6957429505883198568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2186009570685566162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee5a065dcdccffd4098e500363dd498e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _chanceToStartAlive: 0
+  _birthLimit: 4
+  _deathLimit: 3
+  _numberOfSteps: 7

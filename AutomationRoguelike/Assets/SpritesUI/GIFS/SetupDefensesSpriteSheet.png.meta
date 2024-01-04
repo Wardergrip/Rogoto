@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 5e42a73938a25dc4d973d526ad850550
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178fab9f440554c4d8d1c81dc3930536
+      internalID: -1182481356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7520f987bac94e8be1b24d1793daa
+      internalID: -1595742449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce7bf28e8eaadb4c9b8cbce333a3219
+      internalID: 1500937189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93aad570830556479124607ec714041
+      internalID: -1979645254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acab0f628e48143838d9f0aaa60ae5
+      internalID: 398340182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb85ccc313c2c0a47b7f8bce3a5e98e7
+      internalID: 21564789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3546
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2ce7c0d199c24f8755eec7f090727
+      internalID: 2065681559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0d06734283b0a43a9f18a22b9382c7
+      internalID: -560446648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8980aac8ad5ef41a7812f9b0d7498e
+      internalID: 1309361538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2f6b5d2dbd8a4ca092c233c11d9d2
+      internalID: 1545236332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c964b8029f3bc246a79ff598d4234a1
+      internalID: 1986037018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5f0964335a4d4fa302a168a656454
+      internalID: -1587920233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eadf6e33cb74c045b87c619a07ae529
+      internalID: 38111436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3152
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9d500d88bfa19448972289f09b5008
+      internalID: 768470172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83891f037997c84497373873c372c15
+      internalID: -998237486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42ae066161fb3547bbaf8227ee9787d
+      internalID: 549770033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168e5c0e0a5190e45911b415dce521c2
+      internalID: -1546367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a01b59370db04e8ea93a963f301c7
+      internalID: 2136484800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b2eb6aba82504088a41c080ed8cda
+      internalID: 1718388072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e94a9d6432484a9667cce85560f15
+      internalID: 2108662181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2758
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58678ceba6192b84e9beb73bf2a0637e
+      internalID: -2106617390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917978fe6fb419428b10b1194810194
+      internalID: 2058237097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39643f9c7c7a4e4aa4b60d9ba141b67
+      internalID: -309651070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6879e8443493640990e7c5ad5c64b7
+      internalID: 2100748061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a277b91852c5664ab3248adc694b064
+      internalID: -491779754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f95aa8c675e73f4cbad89b94cad502c
+      internalID: -1665928652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07585c78c9913e44aac88f941032e31
+      internalID: 759969652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2364
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28512ea0b7b83d34fbd194c315620dbb
+      internalID: -1237338757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c12acc6ec12d49a1c514239fc39ff
+      internalID: -264713374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee358c38b31ff242bafc64461c44765
+      internalID: -809458082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca10852a3ab2bf54caa38d581ea308b1
+      internalID: 236506322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe00df34aedc884cbd13a13301cbfbd
+      internalID: 135614148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb505d7f7de124d9cfb1d1a57d18c8
+      internalID: -1517876222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34245e47a3f096948bb17b894fa298f5
+      internalID: 296961657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1970
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab24c6abf5f39d64a87cf5ea0e2e596d
+      internalID: 2088211975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffbaa4541ccd0d429f54c1ae07548f6
+      internalID: -32799688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617d31d5808e7a4389f0f48181ac0a4
+      internalID: -67122383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d796c257030d17045ac9e6f3c254c3a3
+      internalID: 1011623452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8132b1676d079dc48ac7e42f70a0502c
+      internalID: -1408378463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0753e4a1c004b40a23dffecd2f8977
+      internalID: -203736954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4bf696b34054488f307b0d2813917
+      internalID: 97934291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1576
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0aa7673d1e6ac42adc17c699b91658
+      internalID: 857256550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109063b093069ab48a209fbd3f2d23a4
+      internalID: -312707345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143bb846b43d97947b2c93c3e471b43b
+      internalID: -35890197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1efed3865142a4099c7bb6b3ff6c19
+      internalID: 1803314134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6b8e81104c8da42a7d387092ebab36
+      internalID: -1115446691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd357365b00abc4b8929afab9c978d4
+      internalID: -1966137324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b596c864603aae42b364b98b6cdaa64
+      internalID: 949047754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1182
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8d11f10dee9e4f92518a288407fa0
+      internalID: 1950540953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5b2650aa4a224a8682168e4b72a86
+      internalID: 736598835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b52a268b86a66429453316c3956778
+      internalID: -1058471363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e534c5494de4ab43b3756a2f0a73415
+      internalID: 142789680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9f63deb82d3e469b10742e4617655
+      internalID: 1066417819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad5498ff66e7d4cbba8d799960e48f
+      internalID: -901409266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa152509de5da5e4eb98b69d14ceef6b
+      internalID: -1389074216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 788
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d0b3b6dcb0c84dbce5b8ea93372a1
+      internalID: 1297286493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08967c7ca7f09104ab7e3839abd29c9d
+      internalID: 1031881170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a5139613db324eb784528f0256781
+      internalID: 159699258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a5238cd6c2d447a0da2906ddfccc7
+      internalID: 1620056417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121cb997276b4f54ab28e1e47685b104
+      internalID: 1669855282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c665408aa0436a4ebe18e1f741ad821
+      internalID: -796893690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb07ad5ce79e4489518985a62c6ccc
+      internalID: 1127483509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 394
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e63365d83d5034592bacfced804a4d
+      internalID: 896859784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee65f78b3d137419bfacbd02cc0644
+      internalID: 1618760238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88735d25b8fabde4193a3880b0f3d6b5
+      internalID: 74063125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9198110aaea39f84d9aecf29f0b7fd95
+      internalID: -1690915479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f4f7ce000a01448bebfc8842b5c92
+      internalID: 1641314798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e3a4b35e00fe744815e916091e2884
+      internalID: 1668832612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0daffebc1ed54da03082e9f781756
+      internalID: -516625865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupDefensesSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 0
+        width: 518
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e4bbf21366be40b7703617531e37a
+      internalID: -424600584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c52496c9f5849f4e8f2b5ccd93df180
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SetupDefensesSpriteSheet_0: -1182481356
+      SetupDefensesSpriteSheet_1: -1595742449
+      SetupDefensesSpriteSheet_10: 1986037018
+      SetupDefensesSpriteSheet_11: -1587920233
+      SetupDefensesSpriteSheet_12: 38111436
+      SetupDefensesSpriteSheet_13: 768470172
+      SetupDefensesSpriteSheet_14: -998237486
+      SetupDefensesSpriteSheet_15: 549770033
+      SetupDefensesSpriteSheet_16: -1546367
+      SetupDefensesSpriteSheet_17: 2136484800
+      SetupDefensesSpriteSheet_18: 1718388072
+      SetupDefensesSpriteSheet_19: 2108662181
+      SetupDefensesSpriteSheet_2: 1500937189
+      SetupDefensesSpriteSheet_20: -2106617390
+      SetupDefensesSpriteSheet_21: 2058237097
+      SetupDefensesSpriteSheet_22: -309651070
+      SetupDefensesSpriteSheet_23: 2100748061
+      SetupDefensesSpriteSheet_24: -491779754
+      SetupDefensesSpriteSheet_25: -1665928652
+      SetupDefensesSpriteSheet_26: 759969652
+      SetupDefensesSpriteSheet_27: -1237338757
+      SetupDefensesSpriteSheet_28: -264713374
+      SetupDefensesSpriteSheet_29: -809458082
+      SetupDefensesSpriteSheet_3: -1979645254
+      SetupDefensesSpriteSheet_30: 236506322
+      SetupDefensesSpriteSheet_31: 135614148
+      SetupDefensesSpriteSheet_32: -1517876222
+      SetupDefensesSpriteSheet_33: 296961657
+      SetupDefensesSpriteSheet_34: 2088211975
+      SetupDefensesSpriteSheet_35: -32799688
+      SetupDefensesSpriteSheet_36: -67122383
+      SetupDefensesSpriteSheet_37: 1011623452
+      SetupDefensesSpriteSheet_38: -1408378463
+      SetupDefensesSpriteSheet_39: -203736954
+      SetupDefensesSpriteSheet_4: 398340182
+      SetupDefensesSpriteSheet_40: 97934291
+      SetupDefensesSpriteSheet_41: 857256550
+      SetupDefensesSpriteSheet_42: -312707345
+      SetupDefensesSpriteSheet_43: -35890197
+      SetupDefensesSpriteSheet_44: 1803314134
+      SetupDefensesSpriteSheet_45: -1115446691
+      SetupDefensesSpriteSheet_46: -1966137324
+      SetupDefensesSpriteSheet_47: 949047754
+      SetupDefensesSpriteSheet_48: 1950540953
+      SetupDefensesSpriteSheet_49: 736598835
+      SetupDefensesSpriteSheet_5: 21564789
+      SetupDefensesSpriteSheet_50: -1058471363
+      SetupDefensesSpriteSheet_51: 142789680
+      SetupDefensesSpriteSheet_52: 1066417819
+      SetupDefensesSpriteSheet_53: -901409266
+      SetupDefensesSpriteSheet_54: -1389074216
+      SetupDefensesSpriteSheet_55: 1297286493
+      SetupDefensesSpriteSheet_56: 1031881170
+      SetupDefensesSpriteSheet_57: 159699258
+      SetupDefensesSpriteSheet_58: 1620056417
+      SetupDefensesSpriteSheet_59: 1669855282
+      SetupDefensesSpriteSheet_6: 2065681559
+      SetupDefensesSpriteSheet_60: -796893690
+      SetupDefensesSpriteSheet_61: 1127483509
+      SetupDefensesSpriteSheet_62: 896859784
+      SetupDefensesSpriteSheet_63: 1618760238
+      SetupDefensesSpriteSheet_64: 74063125
+      SetupDefensesSpriteSheet_65: -1690915479
+      SetupDefensesSpriteSheet_66: 1641314798
+      SetupDefensesSpriteSheet_67: 1668832612
+      SetupDefensesSpriteSheet_68: -516625865
+      SetupDefensesSpriteSheet_69: -424600584
+      SetupDefensesSpriteSheet_7: -560446648
+      SetupDefensesSpriteSheet_8: 1309361538
+      SetupDefensesSpriteSheet_9: 1545236332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

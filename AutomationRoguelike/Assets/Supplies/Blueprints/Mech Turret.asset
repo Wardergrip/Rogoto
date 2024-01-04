@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11cc8c226e8214c4d9832afe9734cada, type: 3}
+  m_Name: Mech Turret
+  m_EditorClassIdentifier: 
+  _structure: {fileID: 2858565309411975534, guid: 19c10df6a455ca943a73e8da79b6af0d,
+    type: 3}
+  _descriptionText: Minigun wielding turret that shoots on two lanes at once
+  _icon: {fileID: 21300000, guid: fe376a8588113534d99f827ee80d5e3d, type: 3}
+  _gif: {fileID: 0}
+  _gifAnimationController: {fileID: 0}
+  _isProcessingMachine: 0
+  _possibleVariants:
+  - {fileID: 2606404096437802707, guid: b45e71498f86ac04180306c76182fa4c, type: 3}
+  - {fileID: 2491705822010250404, guid: 4a75bb008811e7142ada46344ccf294c, type: 3}
+  - {fileID: 5363724137711603322, guid: 0ec42e85f293131449b5e45ad7ceeadd, type: 3}
+  - {fileID: 6616922759460735758, guid: 4920c579dabe32a4792d2f49f96ada20, type: 3}
+  - {fileID: 7257702193166109305, guid: 2fee6ab50625026479aabb36f87a5fae, type: 3}
+  - {fileID: -6114473465376947026, guid: c30b45e879233cd4ba0e00d3331d73ba, type: 3}
+  - {fileID: 6843997796132024224, guid: 89acacfc82af73d408cc52272fd239c6, type: 3}
+  - {fileID: -207203384813887339, guid: dfe5d687fce7a8346a34d956f73f935f, type: 3}

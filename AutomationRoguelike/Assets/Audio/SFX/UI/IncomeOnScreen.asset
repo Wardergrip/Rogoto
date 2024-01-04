@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbcbcdae04d6c94f861f9fe52a6b1dd, type: 3}
+  m_Name: IncomeOnScreen
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: aa5c8aa3c190d4a428b2079ab7968fe9, type: 3}
+  _maxVolume: 1
+  _minVolume: 0.9
+  _maxPitch: 1.2
+  _minPitch: 0.8
+  _mixer: {fileID: -8722727089866229845, guid: c50f422e76635fb45afb7398e47113ce, type: 2}
+  _cooldown: 0

@@ -1,0 +1,2604 @@
+fileFormatVersion: 2
+guid: 6f65fabfb705e104d99937568f07a2d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2adfa727138f4d4cbcd8576b5e75f3d
+      internalID: 596262377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d5caecc1d7ddf4e8e153c61be388df
+      internalID: 741948179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ebea94f71cfec43bffec8b12425d24
+      internalID: 483449483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967daf71aa53d941a23c259666351dd
+      internalID: -2136250254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c0d5807bf5f341a6e7241436ff621
+      internalID: 2024063525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049099f9e06d0f4fa3dcefb8d2ba6f5
+      internalID: -2135537508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 5415
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488278d447a73c438b243ff4442a7ab
+      internalID: 797320660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7cdf48c77554d499f1ab2e76d4d2ec
+      internalID: -1606627861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d22abab09a462468943d916ddeb5ef
+      internalID: -1282098636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb827e9f775a39d489e65d4fc286c93c
+      internalID: 1579257709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a81bcec289ff4fa8b2c98f3bba947
+      internalID: 903589881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379973fb4b3bce4c915a5ab35b59693
+      internalID: 1184760679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff39bd652ab2a4498c6929e31073d94
+      internalID: -731566807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 5054
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b2cc2035062847a4e0e0f88676c92
+      internalID: 1402283314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4fc2c873b401647b0f81b1af48d9db
+      internalID: -2103290784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7d57a62c8d5d4282bce1a67ee2efd
+      internalID: 1264390373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a87753de75b3f4787e2266e2952e94
+      internalID: -191814905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccfa8c1576f42745889bc0b76bb7c3d
+      internalID: -236407915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f144164d2b3fd4ba116ad09e46b050
+      internalID: -2088864213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740131b9895252b44a1c80902cff0dc3
+      internalID: -1794292251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 4693
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6fdd73d66f654cbbd4af907b37dd3
+      internalID: 1961986453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd7d6a749cd54044991c9c69961dc42
+      internalID: 951249607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f361c7effe2db4996d6663311d15fa
+      internalID: -418376598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8757e7fdabb467d44869c94eb56d2527
+      internalID: -1573561859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ab3fd1deb3944c987dab28a4c454c
+      internalID: -1780194080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb0530535e99b94b9b722ee12f32c9c
+      internalID: -464909364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842042ef738afc1408eb5e381b184813
+      internalID: -823388218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 4332
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2eb821dbd12784f86a4ea0304dc27a
+      internalID: -300085457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ebe702c3bef5468195dd67576db53
+      internalID: -1299048235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f604bc4adfbca34985a2c434523918a
+      internalID: -2048826949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d707635fdab74888149d78c4a207f
+      internalID: -941115824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3a16421513f64fbcfdf9dfd53bbc6
+      internalID: -757272162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d737716fb11e4ea547e03ee1bd886
+      internalID: 497782224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa9a38460847648953202e0b1866c5
+      internalID: -1936890044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 3971
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464100e7845fac8449491cf6ba3593b1
+      internalID: 1325807987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce6d7efdb9c764eb1c70017a5f3d1a
+      internalID: 1452878798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2083db14d3f9248aeb47c4c4fd5bd7
+      internalID: 579109635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84a1aa99ac1d6949b7837a441a044cf
+      internalID: -1337853898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8763cca4b53c42b584ebc77afe5b2
+      internalID: 1778220744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a1c44787a2134eaa826f20a933b74
+      internalID: -1730293125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa97abb26f1c1442a178c4b652a1ca0
+      internalID: 1383432187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 3610
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104e636f01e03004b939b358acb69f39
+      internalID: -1633435472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed30fba85bfc04d98e9e9f2e9a8bc0
+      internalID: -1395995958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa2e58dcc94ddf43b32424f8b45dfb2
+      internalID: -981952171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62fa863de6c7041a8d414ae483e085
+      internalID: 1207733939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e463bbef2aa041a7bc73241171090
+      internalID: -1249099335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe3fb4fd6103f49916c8c300e57aa2
+      internalID: -629733735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d8eb0ed8012f4b8b1c0b0ef3eeac3
+      internalID: -644650441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 3249
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286456ac193ba2141845da5ba2d0878a
+      internalID: 1196856348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06443d9c2c3a67469649c4db0743f3c
+      internalID: 812008319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d371e14ad8cb2b4aa7ac12671fd33d9
+      internalID: 551304572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b4703882ad134cb0721854516bf26
+      internalID: -1254921110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6510d1f5eda244993cd4eeb62912a5
+      internalID: 116788246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1420cae2cc6e2c44936691e86fc835f
+      internalID: 78231581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59cddd7ba1c7241aeaaa55a48bff46
+      internalID: -894140936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 2888
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d75961fa28ae74f826df6fea83fa7f
+      internalID: -276818852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79568e815934d41ae2e649046875b3
+      internalID: 897052111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4213b0eee7ccfa4b913f68b09a4d39d
+      internalID: 362863662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79adbf0365df4f45928f174dc6e48c7
+      internalID: 1494706825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f7b99fd69b584f93f97a2139aac4a
+      internalID: -1097818694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1c3d2e9b171e4c8e4166a9ccfd32c
+      internalID: -1702548047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def348f83f802fa45ab7f44ec5c8e43c
+      internalID: -528043401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 2527
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d682be3bd2b29488f3ddeb1a1011b9
+      internalID: -1364179864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec4451b2d5de949addd9c570ae929e
+      internalID: -408489761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2978b7af7f374cbe2c51235c38eaf
+      internalID: -1243147753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7c61f9c405f3469b4c17498204c25
+      internalID: -1988407443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c9a311c7049984bb8e5734f22281ab
+      internalID: 1243049325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf4181459791842831bc016114f4a3
+      internalID: 988313648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bacd8d9cbe47824db74d4a1f30d60d2
+      internalID: 1477293583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 2166
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9d5454b631bd34bb222d5145f7561d
+      internalID: -1463209014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64d8b29247e1a64492d2bded207e00d
+      internalID: 795471677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1b18b06aea524b82354e91a104bae
+      internalID: -682816432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21eba59bcaee2b41b5f6509128dac52
+      internalID: 1637246734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a688b8d4ce3994882676d086251ba0
+      internalID: 1859157332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f59b0e46bf3dd4abcfc2be921634af
+      internalID: -1283004716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12367bb43750f7548b28bd6d50aeae1e
+      internalID: -1586250909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 1805
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c81452c813e5f74cbd521770b40f4dc
+      internalID: -1770523085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a15a34e6c14d3c4ea53b3132f9be72f
+      internalID: 1395452087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5436d9751b9ed644811ccd65ca30bc3
+      internalID: 10718034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9ba451c330db4bbbd3b84982ecb06
+      internalID: -49278791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb9f9b0612c5f4a977b70844a647d0
+      internalID: 391272513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac045d4f21e261f44be57f94ea5a8232
+      internalID: -988363014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b93e962bc81e4aa33339eadde5b98
+      internalID: 2041556808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 1444
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79abe015c7c4b4e84f5fc000978725
+      internalID: 1778275877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a31cd0c74354048916d04993ea56a3
+      internalID: -823951746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9a193458402634ea2b0d90afec76d9
+      internalID: -1183692015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bbd1a4f4b56dd49829ec4fe7f71f18
+      internalID: -1357519063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbac94c83625214eb15869fdde935bc
+      internalID: -45940515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf0e974e2d4de42b5326227103decf
+      internalID: 733102092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a8aabbc7187e4392fbaf5f989ed53
+      internalID: 1206568422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 1083
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67e288d51b59747bdb4372e5c0bdaa
+      internalID: 1597199964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ce8537fb1cba48a325039684bd7a1
+      internalID: -1849547238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c752b36923ac4abee6a97e7bdd332
+      internalID: -1125268406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b670046983429c24d8c885e47d08faa7
+      internalID: -465851015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed97da54d2f924fa22dd9ff16740d3
+      internalID: 1835610409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c45bd78a028b46a42844123ebd16c
+      internalID: 553885484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff3fc126ede744da6bca584f1934a8
+      internalID: 339269040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 722
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff110192acfdaec479e8e784d446c402
+      internalID: 1116966791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ab5195ca32c143bc72190a392f97d
+      internalID: -978681627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23157d04d121bbd49aa1745a10cc701e
+      internalID: -505918053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f67ccf5ad4774c4a9c65b3b9e5c8fc5
+      internalID: -1696851927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a373e763b6a949a1f98ea1f1e8876
+      internalID: -2044368978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2201b4d758b1c146a481e4c3f8d2ffb
+      internalID: 1118358121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df851994233d58640a2713dc876e4c5a
+      internalID: 184203003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 361
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d7ddd3c3045144bdef13cbb833e37
+      internalID: 1602931146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece918ea5e4a37f45acac0a6a5137804
+      internalID: -1815414160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002205a55f9c7d4da9c83ca3565338f
+      internalID: -638760252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9feecb77bc185468712cee1bd008ac
+      internalID: 467404587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a156cb6d025d64aaad0e0ceabd4781
+      internalID: -120042269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf8348fb1b6f34fa2ba3c8caa35430
+      internalID: 1486453704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6c6a1eca9ac94d86f81b1a9c80d80
+      internalID: -217041031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetupEconomySpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 0
+        width: 678
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f98bf138fc9447bb103ed42b7b001
+      internalID: 1343318702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8fa823c681049a9468b9054846cde06c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SetupEconomySpriteSheet_0: 596262377
+      SetupEconomySpriteSheet_1: 741948179
+      SetupEconomySpriteSheet_10: 903589881
+      SetupEconomySpriteSheet_100: -1696851927
+      SetupEconomySpriteSheet_101: -2044368978
+      SetupEconomySpriteSheet_102: 1118358121
+      SetupEconomySpriteSheet_103: 184203003
+      SetupEconomySpriteSheet_104: 1602931146
+      SetupEconomySpriteSheet_105: -1815414160
+      SetupEconomySpriteSheet_106: -638760252
+      SetupEconomySpriteSheet_107: 467404587
+      SetupEconomySpriteSheet_108: -120042269
+      SetupEconomySpriteSheet_109: 1486453704
+      SetupEconomySpriteSheet_11: 1184760679
+      SetupEconomySpriteSheet_110: -217041031
+      SetupEconomySpriteSheet_111: 1343318702
+      SetupEconomySpriteSheet_12: -731566807
+      SetupEconomySpriteSheet_13: 1402283314
+      SetupEconomySpriteSheet_14: -2103290784
+      SetupEconomySpriteSheet_15: 1264390373
+      SetupEconomySpriteSheet_16: -191814905
+      SetupEconomySpriteSheet_17: -236407915
+      SetupEconomySpriteSheet_18: -2088864213
+      SetupEconomySpriteSheet_19: -1794292251
+      SetupEconomySpriteSheet_2: 483449483
+      SetupEconomySpriteSheet_20: 1961986453
+      SetupEconomySpriteSheet_21: 951249607
+      SetupEconomySpriteSheet_22: -418376598
+      SetupEconomySpriteSheet_23: -1573561859
+      SetupEconomySpriteSheet_24: -1780194080
+      SetupEconomySpriteSheet_25: -464909364
+      SetupEconomySpriteSheet_26: -823388218
+      SetupEconomySpriteSheet_27: -300085457
+      SetupEconomySpriteSheet_28: -1299048235
+      SetupEconomySpriteSheet_29: -2048826949
+      SetupEconomySpriteSheet_3: -2136250254
+      SetupEconomySpriteSheet_30: -941115824
+      SetupEconomySpriteSheet_31: -757272162
+      SetupEconomySpriteSheet_32: 497782224
+      SetupEconomySpriteSheet_33: -1936890044
+      SetupEconomySpriteSheet_34: 1325807987
+      SetupEconomySpriteSheet_35: 1452878798
+      SetupEconomySpriteSheet_36: 579109635
+      SetupEconomySpriteSheet_37: -1337853898
+      SetupEconomySpriteSheet_38: 1778220744
+      SetupEconomySpriteSheet_39: -1730293125
+      SetupEconomySpriteSheet_4: 2024063525
+      SetupEconomySpriteSheet_40: 1383432187
+      SetupEconomySpriteSheet_41: -1633435472
+      SetupEconomySpriteSheet_42: -1395995958
+      SetupEconomySpriteSheet_43: -981952171
+      SetupEconomySpriteSheet_44: 1207733939
+      SetupEconomySpriteSheet_45: -1249099335
+      SetupEconomySpriteSheet_46: -629733735
+      SetupEconomySpriteSheet_47: -644650441
+      SetupEconomySpriteSheet_48: 1196856348
+      SetupEconomySpriteSheet_49: 812008319
+      SetupEconomySpriteSheet_5: -2135537508
+      SetupEconomySpriteSheet_50: 551304572
+      SetupEconomySpriteSheet_51: -1254921110
+      SetupEconomySpriteSheet_52: 116788246
+      SetupEconomySpriteSheet_53: 78231581
+      SetupEconomySpriteSheet_54: -894140936
+      SetupEconomySpriteSheet_55: -276818852
+      SetupEconomySpriteSheet_56: 897052111
+      SetupEconomySpriteSheet_57: 362863662
+      SetupEconomySpriteSheet_58: 1494706825
+      SetupEconomySpriteSheet_59: -1097818694
+      SetupEconomySpriteSheet_6: 797320660
+      SetupEconomySpriteSheet_60: -1702548047
+      SetupEconomySpriteSheet_61: -528043401
+      SetupEconomySpriteSheet_62: -1364179864
+      SetupEconomySpriteSheet_63: -408489761
+      SetupEconomySpriteSheet_64: -1243147753
+      SetupEconomySpriteSheet_65: -1988407443
+      SetupEconomySpriteSheet_66: 1243049325
+      SetupEconomySpriteSheet_67: 988313648
+      SetupEconomySpriteSheet_68: 1477293583
+      SetupEconomySpriteSheet_69: -1463209014
+      SetupEconomySpriteSheet_7: -1606627861
+      SetupEconomySpriteSheet_70: 795471677
+      SetupEconomySpriteSheet_71: -682816432
+      SetupEconomySpriteSheet_72: 1637246734
+      SetupEconomySpriteSheet_73: 1859157332
+      SetupEconomySpriteSheet_74: -1283004716
+      SetupEconomySpriteSheet_75: -1586250909
+      SetupEconomySpriteSheet_76: -1770523085
+      SetupEconomySpriteSheet_77: 1395452087
+      SetupEconomySpriteSheet_78: 10718034
+      SetupEconomySpriteSheet_79: -49278791
+      SetupEconomySpriteSheet_8: -1282098636
+      SetupEconomySpriteSheet_80: 391272513
+      SetupEconomySpriteSheet_81: -988363014
+      SetupEconomySpriteSheet_82: 2041556808
+      SetupEconomySpriteSheet_83: 1778275877
+      SetupEconomySpriteSheet_84: -823951746
+      SetupEconomySpriteSheet_85: -1183692015
+      SetupEconomySpriteSheet_86: -1357519063
+      SetupEconomySpriteSheet_87: -45940515
+      SetupEconomySpriteSheet_88: 733102092
+      SetupEconomySpriteSheet_89: 1206568422
+      SetupEconomySpriteSheet_9: 1579257709
+      SetupEconomySpriteSheet_90: 1597199964
+      SetupEconomySpriteSheet_91: -1849547238
+      SetupEconomySpriteSheet_92: -1125268406
+      SetupEconomySpriteSheet_93: -465851015
+      SetupEconomySpriteSheet_94: 1835610409
+      SetupEconomySpriteSheet_95: 553885484
+      SetupEconomySpriteSheet_96: 339269040
+      SetupEconomySpriteSheet_97: 1116966791
+      SetupEconomySpriteSheet_98: -978681627
+      SetupEconomySpriteSheet_99: -505918053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

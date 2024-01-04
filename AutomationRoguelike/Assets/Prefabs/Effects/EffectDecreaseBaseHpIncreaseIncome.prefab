@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1995306652614444928
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 134503058239136480, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_Name
+      value: EffectDecreaseBaseHpIncreaseIncome
+      objectReference: {fileID: 0}
+    - target: {fileID: 7473875369290060444, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_text
+      value: Get 25% more income per wave but also reduce max base HP by 50%
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7813658102087417109, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 134503058239136480, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9116800992289235991}
+  m_SourcePrefab: {fileID: 100100000, guid: 1c274dc8a2651314a93d5d0ddc92c97a, type: 3}
+--- !u!1 &1904205729540269408 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 134503058239136480, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1995306652614444928}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9116800992289235991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904205729540269408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90d2c73c6adde674391edd16e4bb75ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectStatIcon: 2
+  _name: 'Sacrifice '
+  _description: {fileID: 8937475755934061852}
+  _icon: {fileID: 21300000, guid: cacd6580af04c054ba6dfede9b81d282, type: 3}
+  _baseHpDecrease: 0.5
+  _additonalIncomePercentage: 0.25
+--- !u!114 &8937475755934061852 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7473875369290060444, guid: 1c274dc8a2651314a93d5d0ddc92c97a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1995306652614444928}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
